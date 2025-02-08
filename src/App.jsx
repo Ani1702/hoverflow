@@ -1,18 +1,17 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
+import MenuBar from "./MenuBar";
+import Chatbox from "./Chatbox";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <div className='bg-red-500'>
-      <p>hi</p>
-      </div>
+      <MenuBar></MenuBar>
+      <Chatbox></Chatbox>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
