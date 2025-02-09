@@ -1,0 +1,107 @@
+Timestamp: 2024-02-08 07:30 AM  
+Location: Junction 2  
+Issue: Heavy congestion due to office rush hour  
+Vehicle Count: 1,500  
+Accidents: 0  
+Road Condition: Dry, but bottlenecks at roundabout  
+Action Taken: Signal cycle extended to clear backlog  
+Prediction: Congestion expected till 9:00 AM  
+
+---
+
+Timestamp: 2024-02-08 08:15 AM  
+Location: Junction 2  
+Issue: Sudden increase in vehicles due to metro breakdown  
+Vehicle Count: 2,200  
+Accidents: 1 minor collision near the signal  
+Road Condition: Clear, but pedestrian overflow slowing traffic  
+Action Taken: Traffic police deployed, metro authorities alerted  
+Prediction: High congestion for next 45 minutes  
+
+---
+
+Timestamp: 2024-02-08 09:00 AM  
+Location: Junction 2  
+Issue: Dynamic reallocation activated due to school zone traffic  
+Vehicle Count: 1,800  
+Accidents: None reported  
+Road Condition: Smooth, but slow-moving traffic  
+Action Taken: Additional lane opened temporarily for school drop-offs  
+Prediction: Traffic expected to ease by 9:30 AM  
+
+---
+
+Timestamp: 2024-02-08 10:00 AM  
+Location: Junction 2  
+Issue: Delivery trucks causing lane blockages  
+Vehicle Count: 1,200  
+Accidents: 0  
+Road Condition: Roadblock on service lane affecting main road  
+Action Taken: Delivery trucks diverted via alternate route  
+Prediction: Normal traffic flow in 30 minutes  
+
+---
+
+Timestamp: 2024-02-08 11:30 AM  
+Location: Junction 2  
+Issue: Traffic flow stabilized, moderate congestion  
+Vehicle Count: 1,000  
+Accidents: None  
+Road Condition: Clear, but slow-moving due to ongoing metro construction  
+Action Taken: No major interventions required  
+Prediction: Traffic steady till lunch hours  
+
+---
+
+Timestamp: 2024-02-08 01:00 PM  
+Location: Junction 2  
+Issue: Light congestion due to lunch-hour vehicle movement  
+Vehicle Count: 900  
+Accidents: 0  
+Road Condition: Normal, but high pedestrian movement  
+Action Taken: No intervention required  
+Prediction: Traffic smooth post-2:00 PM  
+
+---
+
+Timestamp: 2024-02-08 03:30 PM  
+Location: Junction 2  
+Issue: Sudden traffic increase due to local protest  
+Vehicle Count: 1,700  
+Accidents: 1 minor road rage incident  
+Road Condition: Blocked partially due to crowd gathering  
+Action Taken: Traffic diverted; police intervening  
+Prediction: Heavy congestion till 5:00 PM  
+
+---
+
+Timestamp: 2024-02-08 06:00 PM  
+Location: Junction 2  
+Issue: Office-hour traffic peak causing slow movement  
+Vehicle Count: 2,500  
+Accidents: 1 bike skidding due to sudden braking  
+Road Condition: Dry, but lane switching causing slowdowns  
+Action Taken: Traffic personnel deployed for better management  
+Prediction: High congestion till 7:30 PM  
+
+---
+
+Timestamp: 2024-02-08 08:00 PM  
+Location: Junction 2  
+Issue: Traffic easing, but some congestion remains  
+Vehicle Count: 1,400  
+Accidents: 0  
+Road Condition: Normal flow resuming  
+Action Taken: No intervention required  
+Prediction: Smooth traffic post-9:00 PM  
+
+---
+
+Timestamp: 2024-02-08 10:00 PM  
+Location: Junction 2  
+Issue: Night-time truck movement slowing regular traffic  
+Vehicle Count: 1,100  
+Accidents: 0  
+Road Condition: Clear, but slower due to heavy vehicles  
+Action Taken: Trucks rerouted via bypass road  
+Prediction: Normal flow expected by 11:00 PM  
